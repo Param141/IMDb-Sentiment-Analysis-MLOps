@@ -1,0 +1,1 @@
+# 🎬 IMDb Sentiment Analysis: Production MLOps Pipeline with EKS & Observability
