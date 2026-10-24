@@ -1,8 +1,5 @@
 # 🎬 IMDb Sentiment Analysis: Production MLOps Pipeline with EKS & Observability
 
-My apologies for that mix-up in the previous response!
-
-Here is the complete, detailed `README.md` crafted specifically for your repository **`IMDb-Sentiment-Analysis-MLOps`** based on the 6-part Capstone Project playlist (Cookiecutter, MLflow & DagsHub, DVC & AWS S3, Flask App, GitHub Actions CI/CD, AWS ECR & EKS, and Prometheus & Grafana observability):
 
 ---
 
